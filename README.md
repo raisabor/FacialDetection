@@ -1,4 +1,4 @@
-# FacialDetection
+# Face Detection
 The Windows Form Application uses Emgu CV, a cross platform .Net wrapper to the OpenCV image processing library. The application  implements the Viola-Jones Image Classification Algorithm to accomplish the task of facial detection. Face Detection is a process where the sytem identifies human images. In the application the human face is detected using a yellow box drawn around it.
 
 # Features
